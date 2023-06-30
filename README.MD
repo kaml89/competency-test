@@ -1,12 +1,14 @@
 # competency-test
 
-## Installation and configuration
+## Installation
 
 ```
 npm install
 ```
 
-Add .env file
+## Configuration
+
+Create .env file and fill it based on .env.example
 
 ## Run app
 
